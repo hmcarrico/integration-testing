@@ -7,7 +7,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
-    "curlrequest": "^1.0.1",
     "cypress": "^3.1.2",
     "dotenv": "^6.0.0",
     "enzyme": "^3.7.0",
